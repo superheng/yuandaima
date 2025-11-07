@@ -1,0 +1,24 @@
+(
+echo # Visual Studio cache
+echo .vs/
+echo *.VC.db
+echo *.VC.opendb
+echo
+echo # User/temp
+echo *.user
+echo *.suo
+echo *.aps
+echo *.log
+echo
+echo # Build outputs
+echo Debug/
+echo Release/
+echo x64/
+echo ipch/
+echo *.obj
+echo *.pdb
+echo *.ilk
+echo *.idb
+echo *.tlog
+echo *.opendb
+) > .gitignore
